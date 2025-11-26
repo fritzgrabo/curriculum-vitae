@@ -1,0 +1,6 @@
+{
+  "name": "curriculum-vitae",
+  "image": "texlive/texlive:latest",
+  "runArgs": ["--name", "${localWorkspaceFolderBasename}"],
+  "remoteUser": "root"
+}
